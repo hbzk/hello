@@ -1,3 +1,9 @@
+$('#menuLeft').click(function(){
+		console.log(123);
+});
+
+/*
+
 function dragDrop(){
 	var dragSrc, dragImg, dropSrc, draggingEleId,droppedEleClass, wholeTag, mainSrc;
 
@@ -83,6 +89,7 @@ function dragDrop(){
 
 }
 
+
 window.onload=dragDrop;
 
 
@@ -157,4 +164,4 @@ function doing(id) {
 	clocktimer = setInterval("update("+ id+ ")", 1);
 	x.start();
 }
-
+*/
